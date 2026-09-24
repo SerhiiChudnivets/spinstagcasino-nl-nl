@@ -37,53 +37,61 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead or Alive",
+          "Name": "Dead or Alive",
+          "logo_alt": "Dead or Alive"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": " Legacy of Dead",
+          "Name": " Legacy of Dead",
+          "logo_alt": "Legacy of Dead"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/971cdbbaef550f5db9147c1294dd1f1c.webp",
+          "name": "Сoin volcano",
+          "Name": "Сoin volcano",
+          "logo_alt": "coin volcano"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Welcome Casino Package: 350% up to €2000 & 1000 FS",
+          "Name": "Welcome Casino Package: 350% up to €2000 & 1000 FS",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "Monday's Reload Bonus: 100% up to €200",
+          "Name": "Monday's Reload Bonus: 100% up to €200",
+          "logo_alt": "Exclusive Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+          "name": "Welcome Sports Bonus: 100% up to €100",
+          "Name": "Welcome Sports Bonus: 100% up to €100",
+          "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+          "name": "Weekend Sports Reload Bonus: 50% up to €100",
+          "Name": "Weekend Sports Reload Bonus: 50% up to €100",
+          "logo_alt": "Sport Bonus"
         }
       ],
       "faq": [],
@@ -297,53 +305,61 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": " Legacy of Dead",
+      "Name": " Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/971cdbbaef550f5db9147c1294dd1f1c.webp",
+      "name": "Сoin volcano",
+      "Name": "Сoin volcano",
+      "logo_alt": "coin volcano"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Welcome Casino Package: 350% up to €2000 & 1000 FS",
+      "Name": "Welcome Casino Package: 350% up to €2000 & 1000 FS",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Monday's Reload Bonus: 100% up to €200",
+      "Name": "Monday's Reload Bonus: 100% up to €200",
+      "logo_alt": "Exclusive Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Welcome Sports Bonus: 100% up to €100",
+      "Name": "Welcome Sports Bonus: 100% up to €100",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Weekend Sports Reload Bonus: 50% up to €100",
+      "Name": "Weekend Sports Reload Bonus: 50% up to €100",
+      "logo_alt": "Sport Bonus"
     }
   ],
   "Reviews": null,
@@ -369,9 +385,9 @@
       "question": "Moet ik een mobiele app downloaden om mobiel te spelen?"
     }
   ],
-  "_generated_at": "2026-09-24T10:42:24.627Z",
+  "_generated_at": "2026-09-24T10:52:04.660Z",
   "_version": "1.0.0",
   "content_alt": "spinstag bonus",
-  "_last_deploy": "2026-09-24T10:42:25.218Z",
-  "_deploy_trigger": "t3aaq5"
+  "_last_deploy": "2026-09-24T10:52:05.275Z",
+  "_deploy_trigger": "pg143"
 }
